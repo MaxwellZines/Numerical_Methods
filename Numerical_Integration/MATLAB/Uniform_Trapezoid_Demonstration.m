@@ -29,7 +29,7 @@ h = ((b - a)/ n);
 runningSum = f(a) + f(b);
 
 % Add 2 times every intermediate y value, if n>1:
-if n>2
+if n>1
     for i=1:(n-1)
         xVal = a+(h*i);
         runningSum = runningSum + (2 * f(xVal));
