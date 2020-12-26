@@ -2,7 +2,7 @@
 % root-finding.
 %
 % Written by Maxwell Zines
-% Written 24/12/2020
+% Written 25/12/2020
 % Revision No. 1.0.0
 %
 %    This code demonstrates Secant method of root-finding by
