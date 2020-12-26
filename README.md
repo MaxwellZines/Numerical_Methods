@@ -8,3 +8,7 @@ This repository includes a variety of code relevant to an introductory Numerical
 - Root Finding
   - MATLAB 
     - Secant Method
+    
+- Numerical Integration
+  - MATLAB
+    - Uniform Trapezoid Method
