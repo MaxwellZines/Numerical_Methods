@@ -2,7 +2,7 @@
 % values with four parity bits and eight data bits.
 %
 % Written by Maxwell Zines
-% Written 2020/12/26
+% Written 2020/12/27
 % Revision No. 1.0.0
 %
 %    This code performs the functions of a simple FEC scheme utilising 
