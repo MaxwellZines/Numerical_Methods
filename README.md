@@ -23,6 +23,7 @@ A collection numerical solutions of Ordinary Differential Equations (ODEs)
       - Demonstrate the bisection method of root finding, and discuss how the algorithm depends on results of the Intermediate-Value Theorem.
     - Secant Method
       - Demonstrate the secant method of root finding
+      - A thought: the secant method is functionally very similar to Newton's method, but it uses the secant instead of the analytical derivative. You could modify this code to run as Newton's method instead. Perhaps with a clever use of the *syms* and *diff()* functions...
     
 ## Numerical Integration
 
