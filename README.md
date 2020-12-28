@@ -13,12 +13,14 @@ A collection of programs that demonstrate how computers store numbers and detect
 A collection numerical solutions of Ordinary Differential Equations (ODEs) 
   - MATLAB
     - Euler (RK1) method
-      - Demonstrate the Euler / Runge-Kutta order 1 method
+      - Demonstrate the Euler / Runge-Kutta order 1 method, and plot the calculated result against the symbolic solution of the ODE-IVP.
 
 ## Root Finding
 
   A suite for root-finding algorithms
   - MATLAB 
+    - Bisection Method
+      - Demonstrate the bisection method of root finding, and discuss how the algorithm depends on results of the Intermediate-Value Theorem.
     - Secant Method
       - Demonstrate the secant method of root finding
     
