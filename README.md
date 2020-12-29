@@ -3,21 +3,23 @@ I am building this repository as free, open-source reference material for studen
 
 The following folders are included in this repository:
 
-## CS Preliminary
+----
+
+### CS Preliminary
 
 A collection of programs that demonstrate how computers store numbers and detect/correct errors in transmitted data. It is important to understand how floating-point numbers are represented in computer memory because this knowledge can provide insight into the cause of rounding errors and so-called 'catastrophic cancellation'. 
   - MATLAB
     - Forward Error Correction by parity checking
       - Show how a FEC scheme called 'parity checking' can detect and correct errors in transmitted data
 
-## ODEs
+### ODEs
 
 A collection numerical solutions of Ordinary Differential Equations (ODEs) 
   - MATLAB
     - Euler (RK1) method
       - Demonstrate the Euler / Runge-Kutta order 1 method, and plot the calculated result against the symbolic solution of the ODE-IVP.
 
-## Root Finding
+### Root Finding
 
   A suite for root-finding algorithms
   - MATLAB 
@@ -27,9 +29,17 @@ A collection numerical solutions of Ordinary Differential Equations (ODEs)
       - Demonstrate the secant method of root finding
       - A thought: the secant method is functionally very similar to Newton's method, but it uses the secant instead of the analytical derivative. You could modify this code to run as Newton's method instead. Perhaps with a clever use of the *syms* and *diff()* functions...
     
-## Numerical Integration
+### Numerical Integration
 
   A suite for numerical integration schemes
   - MATLAB
     - Uniform Trapezoid Method
       - Demonstrate the uniform trapezoid method of numerical integration
+
+----
+
+## Works cited
+
+The Kincaid and Cheney text on Numerical Computing was the main reference source for this repository. It would serve as an excellent companion to the code presented here. It is cited formally as:
+
+Cheney, Ward, and David Kincaid. *Numerical Mathematics and Computing*. 7th ed., Brooks/Cole, 2008. 
