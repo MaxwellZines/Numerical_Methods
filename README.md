@@ -43,3 +43,8 @@ A collection numerical solutions of Ordinary Differential Equations (ODEs)
 The Kincaid and Cheney text on Numerical Computing was the main reference source for this repository. It would serve as an excellent companion to the code presented here. It is cited formally as:
 
 Cheney, Ward, and David Kincaid. *Numerical Mathematics and Computing*. 7th ed., Brooks/Cole, 2008. 
+
+Furthermore, I have used algorithms or ideas from the following books (and they are cited in the comment of the respective code where appropriate):
+
+Constanda, Christian. *Differential Equations: A Primer for Sciientists and Engineers*. 2nd ed., Springer, 2017.
+  - An excellent development of Euler's Method of ODE-IVPs
