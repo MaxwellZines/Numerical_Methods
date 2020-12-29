@@ -1,9 +1,11 @@
-# Numerical_Methods
+# Numerical Methods
 I am building this repository as free, open-source reference material for students taking an undergraduate-level introductory Numerical Analysis course. Because it is intended as reference material instead of serious scientific comuting, many of the processes (iterating, input-gathering...) are written to emphasize clarity over computing cost or efficiency. I have tried to include as many comments as possible without "getting in the way" or "breaking the flow" of the actual code.
+
+The following folders are included in this repository:
 
 ## CS Preliminary
 
-A collection of programs that demonstrate how computers store numbers and detect/correct errors in transmitted data. It is important to understand how floating-point numbers are represented in computer memory because this knowledge can provide insight into the cause of rounding errors and so-called 'catastrophic cancellation'
+A collection of programs that demonstrate how computers store numbers and detect/correct errors in transmitted data. It is important to understand how floating-point numbers are represented in computer memory because this knowledge can provide insight into the cause of rounding errors and so-called 'catastrophic cancellation'. 
   - MATLAB
     - Forward Error Correction by parity checking
       - Show how a FEC scheme called 'parity checking' can detect and correct errors in transmitted data
