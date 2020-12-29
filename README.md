@@ -1,5 +1,5 @@
 # Numerical_Methods
-This repository includes a variety of code relevant to an introductory Numerical Methods course. It is sorted by subject, and then further by language.
+I am building this repository as free, open-source reference material for students taking an undergraduate-level introductory Numerical Analysis course. Because it is intended as reference material instead of serious scientific comuting, many of the processes (iterating, input-gathering...) are written to emphasize clarity over computing cost or efficiency. I have tried to include as many comments as possible without "getting in the way" or "breaking the flow" of the actual code.
 
 ## CS Preliminary
 
