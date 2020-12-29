@@ -48,3 +48,5 @@ Furthermore, I have used algorithms or ideas from the following books (and they 
 
 Constanda, Christian. *Differential Equations: A Primer for Sciientists and Engineers*. 2nd ed., Springer, 2017.
   - An excellent development of Euler's Method of ODE-IVPs
+  
+  Beltrami, Edward. *Mathematics for Dynamic Modelling*. 2nd ed., Academic Press, 1998.
