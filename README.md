@@ -1,5 +1,5 @@
 # Numerical Methods
-I am building this repository as free, open-source reference material for students taking an undergraduate-level introductory Numerical Analysis course. Because it is intended as reference material instead of serious scientific comuting, many of the processes (iterating, input-gathering...) are written to emphasize clarity over computing cost or efficiency. I have tried to include as many comments as possible without "getting in the way" or "breaking the flow" of the actual code.
+I am building this repository as free, open-source reference material for students taking an undergraduate-level introductory Numerical Analysis course. Because it is intended as reference material instead of serious scientific computing, many of the processes (iterating, input-gathering...) are written to emphasize clarity over computing cost or efficiency. I have tried to include as many comments as possible without "getting in the way" or "breaking the flow" of the actual code.
 
 The following folders are included in this repository:
 
