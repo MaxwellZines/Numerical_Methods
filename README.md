@@ -8,23 +8,24 @@ The following folders are included in this repository:
 ### CS Preliminary
 
 A collection of programs that demonstrate how computers store numbers and detect/correct errors in transmitted data. It is important to understand how floating-point numbers are represented in computer memory because this knowledge can provide insight into the cause of rounding errors and so-called 'catastrophic cancellation'. 
-  - MATLAB
+  - ECC_FEC
     - Forward Error Correction by parity checking
       - Show how a FEC scheme called 'parity checking' can detect and correct errors in transmitted data
 
 ### ODEs
 
 A collection numerical solutions of Ordinary Differential Equations (ODEs) 
-  - MATLAB
+  - Runge_Kutta_Methods
     - Euler (RK1) method
       - Demonstrate the Euler / Runge-Kutta order 1 method, and plot the calculated result against the symbolic solution of the ODE-IVP.
 
 ### Root Finding
 
   A suite for root-finding algorithms
-  - MATLAB 
+  - Bisection 
     - Bisection Method
       - Demonstrate the bisection method of root finding, and discuss how the algorithm depends on results of the Intermediate-Value Theorem.
+  - Newton_and_Secant_Methods
     - Secant Method
       - Demonstrate the secant method of root finding
       - A thought: the secant method is functionally very similar to Newton's method, but it uses the secant instead of the analytical derivative. You could modify this code to run as Newton's method instead. Perhaps with a clever use of the *syms* and *diff()* functions...
@@ -32,9 +33,10 @@ A collection numerical solutions of Ordinary Differential Equations (ODEs)
 ### Numerical Integration
 
   A suite for numerical integration schemes
-  - MATLAB
+  - Trapezoid_Methods
     - Uniform Trapezoid Method
       - Demonstrate the uniform trapezoid method of numerical integration
+  - Simpsons_Rules
     - Simpson's Rules
       - Demonstrate Simpson's 1/3, 3/8, and 1/3 composite rules.
 
