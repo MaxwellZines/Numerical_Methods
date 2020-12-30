@@ -35,6 +35,8 @@ A collection numerical solutions of Ordinary Differential Equations (ODEs)
   - MATLAB
     - Uniform Trapezoid Method
       - Demonstrate the uniform trapezoid method of numerical integration
+    - Simpson's Rules
+      - Demonstrate Simpson's 1/3, 3/8, and 1/3 composite rules.
 
 ----
 
