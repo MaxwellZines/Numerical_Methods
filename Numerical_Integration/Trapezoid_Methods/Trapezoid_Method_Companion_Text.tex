@@ -1,0 +1,29 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage[utf8]{inputenc}
+
+\title{The Trapezoid Method - Numerical Integration}
+\author{Maxwell Zines}
+\date{December 2020}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+
+The {\it{Trapezoid Method}} uses the geometry of trapezoids to approximate the area under a curve. The method is similar to the Riemann midpoint sum, but has the added benefit that the trapezoid is sloped to reflect the average rate of change of the function over the interval it encompasses. 
+
+As with the Riemann sum, a greater number of sub-intervals will result in a more accurate estimate. 
+
+\section{Equations}
+
+The trapezoid method evaluates a function on the boundary of every sub-interval - these values become the {\it{lengths}} of the bases of each trapezoid. If we were to apply the trapezoid rule with just one sub-interval on $[a,b]$, the bases of the trapezoid would be lengths $f(a)$ and $f(b)$. On two uniform sub-intervals of size h, the first trapezoid would have base lengths $f(a)$ and $f(a+h)$, and the second $f(a+h)$ and $f(b)$. Generally, the area of our trapezoid is
+
+\[ A = \frac{(f(a)+f(a+h))*h}{2} \]
+
+Every sub-interval boundary except the leftmost and rightmost boundary are used for two separate trapezoids... The left-boundary of one and the right-boundary of the next. We can make use of the fact that these terms appear twice by removing the divisor:
+
+\[ \int_{a}^{b}f(x)dx \approx \frac{(b-a)}{n} * \left( \frac{f(a) + f(b)}{2} \right) * \left[\sum_{i=1}^{n-1}f(a+(h*i))  \right] \]
+
+\end{document}
