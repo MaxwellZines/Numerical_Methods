@@ -2,7 +2,7 @@
 %
 % Written by Maxwell Zines
 % Written 24/12/2020
-% Revision No. 1.0.0
+% Revision No. 1.0.1 (Revised 30/12/2020)
 %
 %    This code demonstrates a simple implementation of 
 % the Euler (Runge-Kutta first-order) method for solving
@@ -10,12 +10,12 @@
 % with given initial value.
 % ----------------------------------------------------------------------
 
+%INITIALISE THE CODE:
+clear all; clc;
+
 %USER ENTERS f'(x) and exact f(x) HERE:
 func = @(x,y)2*x; %f'(x), to be evaluated by euler's method
 exactSol = @(x,y)x^2+0; %f(x), to graph the result against exact solution
-
-%INITIALISE THE CODE:
-clear all; clc;
 
 % Prompt for interval and step count
 a = input('Lower interval of evaluation: ');
