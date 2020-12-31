@@ -16,6 +16,9 @@ A collection of programs that demonstrate how computers store numbers and detect
   - ECC_FEC
     - Forward Error Correction by parity checking
       - Show how a FEC scheme called 'parity checking' can detect and correct errors in transmitted data
+  - Binary Multiplication
+    - Booth's Algorithm
+      - Demonstrate Booth's Algorithm of binary multiplication, including printing the result at each iteration to show how values are shifted.
 
 ### ODEs
 
