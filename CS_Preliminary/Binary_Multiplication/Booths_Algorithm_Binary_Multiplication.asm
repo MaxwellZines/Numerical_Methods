@@ -1,7 +1,7 @@
 # Goal: Demonstrate Booth's Algorithm
 #
 # Written by Maxwell Zines
-# Written 29/12/2020
+# Written 30/12/2020
 # Revision No. 1.0.0
 #
 #    This code demonstrates Booth's Algorithm. The user is asked to
