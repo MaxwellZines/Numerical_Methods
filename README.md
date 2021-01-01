@@ -6,7 +6,7 @@ We are building this repository as free, open-source reference material for stud
 
 Also remember that this introductory code base is exactly that: *introductory*. There are many fantastic resources online that go into elaborate detail about each of these algorithms, including proofs of convergence speed. You should absolutely seek further knowledge into each of these topics, including information about conditions under which each may fail to converge on an answer. Numerical Analysis can be a very technical subject - technicalities and formalities have their place, but we have tried to avoid it here wherever possible.
 
-The following folders are included in this repository:
+The Wiki has a complete, sorted list of algorithms included in this repository. 
 
 ----
 
