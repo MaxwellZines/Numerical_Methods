@@ -1,8 +1,8 @@
 % Goal: Calculate left-point, right-point, and mid-point Riemann sums
 %
 % Written by Maxwell Zines
-% Written 29/12/2020
-% Revision No. 1.0.0
+% Written 01/01/2021 
+% Revision No. 1.0.1 (Revised 01/01/2021)
 %
 %    This code takes a user function and, given a number of intervals,
 % calculates the left-point, right-point, and mid-point Riemann sums.
@@ -17,6 +17,12 @@ f = @(x,y)2*x; %f'(x), to be evaluated by euler's method
 a = input('Lower interval of evaluation: ');
 b = input('Upper interval of evaluation: ');
 n = input('Number of intervals: ');
+
+if b < a
+    temp = a;
+    a = b;
+    b = temp;
+end
 
 %Calculate step size
 h =((b-a)/n);
