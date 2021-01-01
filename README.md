@@ -10,49 +10,6 @@ The Wiki has a complete, sorted list of algorithms included in this repository.
 
 ----
 
-### CS Preliminary
-
-A collection of programs that demonstrate how computers store numbers and detect/correct errors in transmitted data. It is important to understand how floating-point numbers are represented in computer memory because this knowledge can provide insight into the cause of rounding errors and so-called 'catastrophic cancellation'. 
-  - ECC_FEC
-    - Forward Error Correction by parity checking
-      - Show how a FEC scheme called 'parity checking' can detect and correct errors in transmitted data
-  - Binary Multiplication
-    - Booth's Algorithm
-      - Demonstrate Booth's Algorithm of binary multiplication, including printing the result at each iteration to show how values are shifted.
-
-### ODEs
-
-A collection numerical solutions of Ordinary Differential Equations (ODEs) 
-  - Runge_Kutta_Methods
-    - Euler (RK1) method
-      - Demonstrate the Euler / Runge-Kutta order 1 method, and plot the calculated result against the symbolic solution of the ODE-IVP.
-
-### Root Finding
-
-  A suite for root-finding algorithms
-  - Bisection 
-    - Bisection Method
-      - Demonstrate the bisection method of root finding, and discuss how the algorithm depends on results of the Intermediate-Value Theorem.
-  - Newton_and_Secant_Methods
-    - Secant Method
-      - Demonstrate the secant method of root finding
-      - A thought: the secant method is functionally very similar to Newton's method, but it uses the secant instead of the analytical derivative. You could modify this code to run as Newton's method instead. Perhaps with a clever use of the *syms* and *diff()* functions...
-    
-### Numerical Integration
-
-  A suite for numerical integration schemes
-  - Trapezoid_Methods
-    - Uniform Trapezoid Method
-      - Demonstrate the uniform trapezoid method of numerical integration
-  - Simpsons_Rules
-    - Simpson's Rules
-      - Demonstrate Simpson's 1/3, 3/8, and 1/3 composite rules.
-  - Riemann Sums
-    - Riemann's LP, RP, and MP rules
-      - Calculate left-point, right-point, and mid-point Riemann sums
-
-----
-
 ## Works cited
 
 The Kincaid and Cheney text on Numerical Computing was the main reference source for this repository. It would serve as an excellent companion to the code presented here. It is cited formally as:
