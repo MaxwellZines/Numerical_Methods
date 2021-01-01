@@ -47,6 +47,9 @@ A collection numerical solutions of Ordinary Differential Equations (ODEs)
   - Simpsons_Rules
     - Simpson's Rules
       - Demonstrate Simpson's 1/3, 3/8, and 1/3 composite rules.
+  - Riemann Sums
+    - Riemann's LP, RP, and MP rules
+      - Calculate left-point, right-point, and mid-point Riemann sums
 
 ----
 
