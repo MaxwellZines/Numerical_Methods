@@ -6,20 +6,4 @@ We are building this repository as free, open-source reference material for stud
 
 Also remember that this introductory code base is exactly that: *introductory*. There are many fantastic resources online that go into elaborate detail about each of these algorithms, including proofs of convergence speed. You should absolutely seek further knowledge into each of these topics, including information about conditions under which each may fail to converge on an answer. Numerical Analysis can be a very technical subject - technicalities and formalities have their place, but we have tried to avoid it here wherever possible.
 
-The Wiki has a complete, sorted list of algorithms included in this repository. 
-
-----
-
-## Works cited
-
-The Kincaid and Cheney text on Numerical Computing was the main reference source for this repository. It would serve as an excellent companion to the code presented here. It is cited formally as:
-
-Cheney, Ward, and David Kincaid. *Numerical Mathematics and Computing*. 7th ed., Brooks/Cole, 2008. 
-
-Furthermore, we have used algorithms or ideas from the following books (and they are cited in the comment of the respective code where appropriate):
-
-Constanda, Christian. *Differential Equations: A Primer for Scientists and Engineers*. 2nd ed., Springer, 2017.
-  - An excellent development of Euler's Method of ODE-IVPs
-  
-Beltrami, Edward. *Mathematics for Dynamic Modelling*. 2nd ed., Academic Press, 1998.
-  - Used to derive many of the "real-world examples" presented in this repository.
+The Wiki has a complete, sorted list of algorithms included in this repository. It also has a complete list of works cited. 
