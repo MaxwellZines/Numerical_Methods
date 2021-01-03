@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Goal: Create a basic implementation of Monte Carlo pi approximation that 
 includes a matplotlib plot of the region and RNG points.
