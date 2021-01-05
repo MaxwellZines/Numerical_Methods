@@ -2,7 +2,7 @@
 Goal: Demonstrate various MatPlotLib features for 3D function plots
 
 Written by Maxwell Zines
-Written 03/01/2021
+Written 05/01/2021
 Revision No. 1.0.0
 
     This code is a demonstration of various MatPlotLib features which can
