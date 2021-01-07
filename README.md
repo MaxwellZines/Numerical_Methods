@@ -1,6 +1,6 @@
 # Numerical Methods
 
-Maxwell Zines and Elias Martin
+Maxwell Zines (MATLAB, Python, ASM) and Elias Martin (R)
 
 We are building this repository as free, open-source reference material for students taking an undergraduate-level introductory Numerical Analysis course. Because it is intended as reference material instead of serious scientific computing, many of the processes (iterating, input-gathering...) are written to emphasize clarity over computing cost or efficiency. We have tried to include as many comments as possible without "getting in the way" or "breaking the flow" of the actual code. **We highly encourage any curious individual to mess around with the code - break it, test it, build it better, fork it!**
 
