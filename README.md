@@ -8,4 +8,6 @@ Also remember that this introductory code base is exactly that: *introductory*. 
 
 We are currently in the process of building the repository for Python, MATLAB, R, and MIPS ASM. We intend to add support for Haskell, Mathematica, and C.
 
+ASM scripts are written for MIPS ASM and compiled with the MARS IDE. Using other IDEs may cause unexpected results, especially with syscall functions.
+
 The Wiki has a complete, sorted list of algorithms included in this repository. It also has a complete list of works cited. 
