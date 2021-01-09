@@ -6,8 +6,8 @@ We are building this repository as free, open-source reference material for stud
 
 Also remember that this introductory code base is exactly that: *introductory*. There are many fantastic resources online that go into elaborate detail about each of these algorithms, including proofs of convergence speed. You should absolutely seek further knowledge into each of these topics, including information about conditions under which each may fail to converge on an answer. Numerical Analysis can be a very technical subject - technicalities and formalities have their place, but we have tried to avoid it here wherever possible.
 
-We are currently in the process of building the repository for Python, MATLAB, R, and MIPS ASM. We intend to add support for Haskell, Mathematica, and C.
+We are currently in the process of building the repository for Python, MATLAB, R, and MIPS ASM. We intend to add support for Haskell, Mathematica, and C. Please feel free to fork this project to add additional lanugages - this list is by no means comprehensive!
 
-ASM scripts are written for MIPS ASM and compiled with the MARS IDE. Using other IDEs may cause unexpected results, especially with syscall functions.
+ASM scripts are written for MIPS ASM and compiled with the MARS IDE. Using other IDEs may cause unexpected results, especially with syscall functions. 
 
 The Wiki has a complete, sorted list of algorithms included in this repository. It also has a complete list of works cited. 
