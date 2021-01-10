@@ -10,4 +10,4 @@ We are currently in the process of building the repository for Python, MATLAB, R
 
 ASM scripts are written for MIPS ASM and compiled with the MARS IDE. Using other IDEs may cause unexpected results, especially with syscall functions. 
 
-The Wiki has a complete, sorted list of algorithms included in this repository. It also has a complete list of works cited. 
+The Wiki has a complete and sorted list of algorithms included in this repository. It also has a complete list of works cited.
