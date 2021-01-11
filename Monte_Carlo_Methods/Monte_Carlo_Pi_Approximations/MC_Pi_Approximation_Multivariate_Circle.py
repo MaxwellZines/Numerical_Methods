@@ -1,6 +1,5 @@
 """
-Goal: Create a basic implementation of Monte Carlo pi approximation that 
-includes a matplotlib plot of the region and RNG points.
+Goal: Create a basic implementation of Monte Carlo pi approximation
 
 Written by Maxwell Zines
 Written 03/01/2021
