@@ -4,9 +4,7 @@
 # Written 11/01/2020
 # Revision No. 1.0.0
 #
-#    This code implements some Simpson's rules in MIPS ASM. Due to the
-# simplicity of implementing an x^2 function in mips, this is the function
-# I have chosed but this can be changed with effort.
+# This code implements a Monte-Carlo based pi approximation in MIPS ASM.
 # --------------------------------------------------------------------------
 
 
