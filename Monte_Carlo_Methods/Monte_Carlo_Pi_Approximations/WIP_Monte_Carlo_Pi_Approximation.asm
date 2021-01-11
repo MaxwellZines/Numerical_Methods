@@ -1,4 +1,4 @@
-# Goal: Implement some Simpson's rules in ASM
+# Goal: Generate an approximation for pi using Monte Carlo integration
 #
 # Written by Maxwell Zines
 # Written 06/01/2020
