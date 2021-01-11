@@ -1,7 +1,7 @@
 # Goal: Generate an approximation for pi using Monte Carlo integration
 #
 # Written by Maxwell Zines
-# Written 06/01/2020
+# Written 10/01/2020
 # Revision No. 1.0.0
 #
 #    This code implements some Simpson's rules in MIPS ASM. Due to the
