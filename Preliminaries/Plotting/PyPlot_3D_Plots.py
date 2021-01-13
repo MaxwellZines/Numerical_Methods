@@ -9,9 +9,6 @@ Revision No. 1.0.0
 be implemented in a Numerical Analysis script. This script is the second in
 a small sub-collection within the Numerical Methods repository. This script
 covers 3D plotting.
-    IF YOU HAVE NOT YET EXPLORED THE FIRST TUTORIAL AND YOU ARE UNFAMILAR WITH
-MATPLOTLIB, it would be worth your time to do so. This script contains many
-fewer comments on basic PyPlot functions.
 """
 
 import matplotlib.pyplot as plt
